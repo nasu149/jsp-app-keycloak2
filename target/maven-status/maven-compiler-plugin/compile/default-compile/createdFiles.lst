@@ -1,0 +1,3 @@
+org\keycloak\quickstart\jaxrs\Application.class
+org\keycloak\quickstart\jaxrs\Message.class
+org\keycloak\quickstart\jaxrs\Resource.class
